@@ -1,1 +1,1 @@
-1.2 (Ready Build.)
+1.2.6 (Patch Ready)
