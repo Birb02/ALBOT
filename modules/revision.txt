@@ -1,1 +1,1 @@
-1.2.6 (Patch Ready)
+1.2.7 (Patch Ready)
